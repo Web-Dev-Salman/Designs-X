@@ -3289,6 +3289,10 @@ h6, .h6 {
   @media only screen and (max-width: 575px) {
     .main-menu .mobile-logo {
       max-width: 150px; } }
+      @media only screen and (max-width: 1023px){
+      .main-menu .mobile-logo {
+          max-width: 200px;}
+      }      
 
 @media only screen and (max-width: 991px) {
   .main-menu .collapse {
