@@ -964,68 +964,6 @@ a.theme-btn {
 .br-30 {
   border-radius: 30px; }
 
-/* Home One */
-.home-one {
-  font-family: 'Catamaran', sans-serif; }
-  .home-one .count-text,
-  .home-one .price-and-btn .price,
-  .home-one .blog-item .content h4,
-  .home-one h1, .home-one h2, .home-one h3, .home-one h4, .home-one h5, .home-one h6,
-  .home-one .blog-item .content .date,
-  .home-one .h1, .home-one .h2, .home-one .h3, .home-one .h4, .home-one .h5, .home-one .h6,
-  .home-one .blog-item .content .post-by a,
-  .home-one .work-process-item .number {
-    font-family: 'Kumbh Sans', sans-serif; }
-  .home-one a:hover,
-  .home-one .details-btn,
-  .home-one .slick-arrow,
-  .home-one .counter-item > i,
-  .home-one .section-title h2 span,
-  .home-one .blog-item .content .date,
-  .home-one .style-two .counter-title,
-  .home-one .section-title .sub-title,
-  .home-one .list-style-two li a:hover,
-  .home-one .social-style-two a:not(:hover) {
-    color: #fc653c; }
-  .home-one .theme-btn,
-  .home-one .scroll-top,
-  .home-one .details-btn:hover,
-  .home-one .slick-arrow:hover,
-  .home-one .slick-arrow:focus,
-  .home-one .list-style-two li:before,
-  .home-one .list-style-one li:before,
-  .home-one .social-style-two a:hover,
-  .home-one .work-process-item .icon i,
-  .home-one .slick-dots li.slick-active,
-  .home-one .theme-btn.style-three:after,
-  .home-one .list-style-two li:hover:before,
-  .home-one .work-process-item:hover .icon i,
-  .home-one .hidden-bar .social-style-one a:hover,
-  .home-one .widget_nav_menu .list-style-two li:hover:before {
-    background: #fc653c; }
-  .home-one .slick-dots li,
-  .home-one .theme-btn.style-three:hover,
-  .home-one .work-process-item .icon:before,
-  .home-one .hidden-bar .social-style-one a:hover {
-    border-color: #fc653c; }
-  .home-one .slick-arrow:focus,
-  .home-one .slick-arrow:hover,
-  .home-one .details-btn:hover,
-  .home-one .theme-btn.style-three,
-  .home-one .social-style-two a:hover,
-  .home-one .hidden-bar .social-style-one a:hover {
-    color: white; }
-  .home-one .theme-btn {
-    border-radius: 27px; }
-    .home-one .theme-btn:after {
-      background: black; }
-  .home-one .slick-arrow {
-    border-radius: 50%; }
-  .home-one .preloader {
-    background-image: url(../images/preloader2.gif); }
-  .home-one .text-center .sub-title:after, .home-one .text-center .sub-title:before {
-    display: block; }
-
 /* Home Two */
 @media only screen and (min-width: 768px) {
   .home-two h2 {
