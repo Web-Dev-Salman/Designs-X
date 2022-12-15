@@ -1,12 +1,4 @@
 /*----------------------------------------------------------------------
-    Template Name: Oxence - Web Design Company HTML Template
-    Template URI: https://webtend.net/demo/html/oxence/
-    Author: WebTend
-    Author URI:  https://webtend.net/
-    Version: 1.0
-
-    Note: This is Main Style CSS File. */
-/*----------------------------------------------------------------------
 	CSS INDEX
 	----------------------
 
@@ -988,7 +980,7 @@ h6,
 .h6,
 .product-item .content .price-details-btn .price {
   font-weight: 700;
-  color: #293043;
+  color: #010880;
   font-family: "Merriweather", serif; }
 
 h1, .h1 {
@@ -2126,7 +2118,6 @@ h6, .h6 {
 .mb-250,
 .my-250 {
   margin-bottom: 250px; }
-
 /* Responsive Padding Margin */
 @media only screen and (max-width: 991px) {
   /* Padding Around */
@@ -3651,7 +3642,7 @@ h6, .h6 {
 .main-header.header-three .menu-btns .login {
   font-size: 18px;
   font-weight: 500;
-  color: #293043; }
+  color: #010880; }
   .main-header.header-three .menu-btns .login:hover {
     color: #02e9fe; }
 
